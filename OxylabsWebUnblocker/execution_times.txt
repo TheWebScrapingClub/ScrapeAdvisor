@@ -1,5 +1,5 @@
-Akamai: 13.344279000 seconds
-Cloudflare: 77.947781000 seconds
-DataDome: 32.466631000 seconds
-Kasada: 241.495525000 seconds
-PerimeterX: 8.193141000 seconds
+Akamai: 31.402064000 seconds
+Cloudflare: 82.643281000 seconds
+DataDome: 16.774581000 seconds
+Kasada: 211.201188000 seconds
+PerimeterX: 9.342157000 seconds
